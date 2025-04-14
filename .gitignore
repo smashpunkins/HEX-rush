@@ -1,0 +1,39 @@
+# Más carpetas de Unity que se pueden regenerar
+MemoryCaptures/
+UserSettings/
+BuildLogs/
+
+# Archivos de caché de localización
+*.lok
+*.orig
+
+# Archivos de respaldo comunes
+*.bak
+*.backup
+*.old
+*.copy
+
+# Archivos temporales
+*.DS_Store
+*.tmp
+*.temp
+*.swp
+*.log
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos ocultos de Mac y Linux
+._*
+.Spotlight-V100
+.Trashes
+.idea/
+
+
+# Optional: specific heavy or unused folders inside Assets/
+Assets/ExternalAssets/
+Assets/RawTextures/
+Assets/Unused/
+Assets/TempAssets/
