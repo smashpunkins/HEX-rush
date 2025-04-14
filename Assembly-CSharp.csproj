@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CFD8DA8C-374E-AE6B-526B-5E610BC505B1}</ProjectGuid>
+    <ProjectGuid>{7930128D-85A9-AD73-1CF8-E78E9FCC3649}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -68,10 +68,8 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\Scenes 1\main 1\Scripts\GameManager.cs" />
-    <Compile Include="Assets\ithappy\Animals_FREE\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
-    <Compile Include="Assets\ithappy\Animals_FREE\Scripts\MovePlayerInput.cs" />
     <Compile Include="Assets\Scenes 1\main 1\Scripts\AudioManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
@@ -122,8 +120,6 @@
     <Compile Include="Assets\Scenes 1\main 1\Scripts\PlayerElimination.cs" />
     <Compile Include="Assets\Scenes 1\main 1\Scripts\PlayerController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-    <Compile Include="Assets\ithappy\Animals_FREE\Scripts\PlayerCamera.cs" />
-    <Compile Include="Assets\ithappy\Animals_FREE\Scripts\CreatureMover.cs" />
     <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -140,13 +136,11 @@
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Roboto-Bold - AFL.txt" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader" />
     <None Include="Assets\Rowlan\Terrain\Stamps\Examples\MicroVerse\ReadMe.txt" />
-    <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\Tree_Packs\URP_Tree_Pack\Doc\2_Notices.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\pokemon\005 Charmeleon\pm0005_00_00_mat.txt" />
-    <None Include="Assets\Fantasy Skybox FREE\ReleaseNotes.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
     <None Include="Assets\pokemon\005 Charmeleon\pm0005_00_00_mat_shiny.txt" />
@@ -169,7 +163,6 @@
     <None Include="Assets\Hexagon\source\metalic botom\metal_0079_description.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Shaders\ShaderPack.txt" />
-    <None Include="Assets\ithappy\Animals_FREE\Render_Pipeline_Convert\Documentation.txt" />
     <None Include="Assets\PBR Ground Materials #1 [Dirt&amp; Grass]\Documentation.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
