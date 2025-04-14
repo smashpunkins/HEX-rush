@@ -1,6 +1,9 @@
 # 🎮 HexRush
 
-**HexRush** es un juego de plataformas 3D con mecánicas rítmicas, desarrollado en Unity. Inspirado en el minijuego *Hexagon Heat* de Mario Party 2, el jugador debe moverse rápidamente a plataformas seguras mientras las demás se hunden en lava al ritmo de la música. El último personaje en pie gana la partida.
+**HexRush** es un juego de plataformas 3D con mecánicas rítmicas, desarrollado en Unity. Inspirado en el minijuego *Hexagon Heat* de Mario Party 2, el jugador debe moverse rápidamente a plataformas seguras mientras las demás se hunden en lava al ritmo de la música. El último personaje en pie gana la partida.?
+
+ten encuenta descargar la carleta assets y anadirla a para poder ejecutar el proyecto en unity, (por limites de escacio github no deja subir cartela de assets.) 
+descarga assests : https://drive.google.com/drive/folders/1n7_z8XLy9pvynn4RHCYzuzbtEiNeXXOv?usp=drive_link
 
 ## 🧩 Características principales
 
