@@ -30,6 +30,11 @@ Clase: **PROGRAMACIÓN PARA VIDEOJUEGOS - (213027A_2031)**
 3. Corre hacia la plataforma del color indicado antes de que las otras caigan.
 4. Sobrevive más que la IA para ganar.
 
+5. 
+Eduardo Nicolás Supelano Garrido
+
+Presentación:
+Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp.
 ---
 
 > Proyecto desarrollado con fines educativos.
